@@ -1,0 +1,4 @@
+*.pyc
+__pycache__/
+Speech_Classification/Spanish_Numbers/
+.DS_Store
